@@ -184,5 +184,5 @@ Bot: Goodbye! 👋 Have a great day!
 
 ## Author
 
-Akansha | B-tech CSE Student
+Akansha | B-tech CSE Student |
 Submitted as part of the CodeAlpha Java Virtual Internship Program, Batch 2026.
